@@ -3,7 +3,7 @@
 ### Readme</br> 
 本项目内容仅限本人及本人英俊潇洒风流倜傥的小哥哥使用，闲杂人等自行避让</br> 
 The project is limited to myself and my handsome friend</br>
-IS NOT FOR YOU, GO AWAY PLEASE!!!
+IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 :P</br> 
 
 ### 订阅地址</br> 
