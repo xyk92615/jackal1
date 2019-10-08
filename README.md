@@ -1,7 +1,7 @@
 # 使用订阅模式更新代理</br> 
 
 ### Readme</br> 
-本项目内容仅限本人及本人英俊潇洒风流倜傥的小哥哥使用，闲杂人等自行避让</br> 
+本项目内容仅限本人及本人英俊潇洒风流倜傥的小哥哥使用，闲杂人等请自行避让</br> 
 The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
