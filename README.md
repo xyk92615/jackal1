@@ -34,6 +34,7 @@ http://tool.oschina.net/encrypt?type=3</br>
 2、订阅一次后，只需要直接【更新订阅】即可</br> 
 3、在平台支持前提下，优先使用v2ray模式</br> 
 4、游戏加速时，请使用shadowsocks模式，并通过路由器或者支持【udp转发】的客户端进行订阅</br> 
+5、为避免流量浪费、降低上网速度，记得客户端设置【gfwlist模式】</br> 
 
 ### 视频教程</br> 
 1、教程链接：https://github.com/xyk92615/jackal/tree/vid</br> 
