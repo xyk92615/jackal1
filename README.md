@@ -31,4 +31,4 @@ http://tool.oschina.net/encrypt?type=3
 4、游戏加速时，请使用shadowsocks模式，并通过路由器或者支持【udp转发】的客户端进行订阅  
 
 ### 视频教程</br> 
-1、下载链接：https://github.com/2dust/v2rayNG/releases</br>   
+1、教程链接：https://github.com/xyk92615/jackal/tree/vid</br>   
