@@ -13,7 +13,7 @@ IS NOT FOR YOU, GO AWAY PLEASE!!!</br>
 http://tool.oschina.net/encrypt?type=3</br> 
 
 ### Windows客户端：v2rayN</br> 
-1、客户端：https://github.com/2dust/v2rayN/releases</br>   
+1、客户端：https://github.com/2dust/v2rayN/releases</br> 
 2、安装/更新方法：选择最新版本→【Assets】→依次下载【v2rayN-Core.zip】、【v2rayN.zip】→解压到同一文件夹/覆盖原文件</br> 
 3、订阅方法：程序主界面【订阅】→【订阅设置】→输入【备注】及【地址】</br> 
 4、更新订阅：程序主界面【订阅】→【更新订阅】</br> 
