@@ -3,16 +3,32 @@
 ### 订阅地址</br> 
 【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt  
 【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt
+ 
 ### BASE64编码解码</br> 
-http://tool.oschina.net/encrypt?type=3  
+http://tool.oschina.net/encrypt?type=3 
 
-### Windows订阅教程</br> 
+### Windows客户端：v2rayN</br> 
 1、客户端：https://github.com/2dust/v2rayN/releases</br> 
-2、安装/更新方法：选择最新版本→Assets→依次下载【v2rayN-Core.zip】、【v2rayN.zip】→解压到同一文件夹/覆盖原文件
-3、订阅方法：程序主界面【订阅】→订阅设置→输入【备注】及【订阅地址】
-4、更新订阅：程序主界面【订阅】→更新订阅
+2、安装/更新方法：选择最新版本→【Assets】→依次下载【v2rayN-Core.zip】、【v2rayN.zip】→解压到同一文件夹/覆盖原文件
+3、订阅方法：程序主界面【订阅】→【订阅设置】→输入【备注】及【地址】
+4、更新订阅：程序主界面【订阅】→【更新订阅】
 
-### Windows代理教程</br> 
-1、v2ray程序主界面【参数设置】→基础设置→本地监听端口即【socks5】代理协议端口为【本地监听端口】、【http】代理协议端口为【本地监听端口+1】（需手动打开http代理）、
-2、浏览器插件【SwitchyOmega】→设置对应代理配置→【代理服务器】为本地【127.0.0.1】
-3、浏览器插件【SwitchyOmega】→切换到【auto switch】→规则列表网址【https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+### Android客户端：v2rayNG</br> 
+1、客户端：https://github.com/2dust/v2rayNG/releases</br> 
+2、安装/更新方法：选择最新版本→Assets→下载【app-arm64-v8a-release.apk】（若为其他特殊处理器请下载对应版本）→安装至手机
+3、订阅方法：程序主界面左上角【菜单】→【订阅设置】→订阅设置界面右上角【添加】→输入【备注】及【地址】
+4、更新订阅：程序主界面右上角【更多】→更新订阅
+
+### 手动更新订阅</br> 
+1、打开【订阅链接】→复制打开后【全部内容】
+2、使用【BASE64编码解码】→粘贴【全部内容】到【页面右侧】→点击【BASE64解码】
+3、复制对应vmess或ss链接→切换至客户端→使用【从剪贴板导入】功能导入
+
+### 其他</br> 
+1、其他平台、其他客户端，方式均为填写【订阅链接】、【更新订阅】
+2、订阅一次后，只需要直接【更新订阅】即可
+3、在平台支持前提下，优先使用v2ray模式
+4、游戏加速时，请使用shadowsocks模式，并通过路由器或者支持【udp转发】的客户端进行订阅
+
+### 视频教程</br> 
+1、下载链接：https://github.com/2dust/v2rayNG/releases</br> 
