@@ -19,7 +19,7 @@ http://tool.oschina.net/encrypt?type=3</br>
 4、更新订阅：程序主界面【订阅】→【更新订阅】</br> 
 
 ### Android客户端：v2rayNG</br> 
-1、客户端：https://github.com/2dust/v2rayNG/releases</br>   
+1、客户端：https://github.com/2dust/v2rayNG/releases</br>
 2、安装/更新方法：选择最新版本→Assets→下载【app-arm64-v8a-release.apk】（若为其他特殊处理器请下载对应版本）→安装至手机</br> 
 3、订阅方法：程序主界面左上角【菜单】→【订阅设置】→订阅设置界面右上角【添加】→输入【备注】及【地址】</br> 
 4、更新订阅：程序主界面右上角【更多】→更新订阅</br> 
