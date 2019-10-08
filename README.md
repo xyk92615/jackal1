@@ -1,5 +1,11 @@
 # 使用订阅模式自动更新代理</br> 
 
+### Readme</br> 
+本项目内容仅限本人及本人英俊潇洒风流倜傥的小哥哥使用，闲杂人等自行避让</br> 
+The project is limited to myself and my handsome friend</br>
+Unrelated people PLEASE avoid</br> 
+IS NOT FOR YOU</br> 
+
 ### 订阅地址</br> 
 【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
 【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
@@ -24,7 +30,7 @@ http://tool.oschina.net/encrypt?type=3</br>
 2、使用【BASE64编码解码】→粘贴【全部内容】到【页面右侧】→点击【BASE64解码】</br> 
 3、复制对应vmess或ss链接→切换至客户端→使用【从剪贴板导入】功能导入</br> 
 
-### 其他</br> 
+### 其他说明</br> 
 1、其他平台、其他客户端，方式均为先填写【订阅链接】、再进行【更新订阅】</br> 
 2、订阅一次后，只需要直接【更新订阅】即可</br> 
 3、在平台支持前提下，优先使用v2ray模式</br> 
