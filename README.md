@@ -2,8 +2,9 @@
 
 ### Readme</br> 
 本项目内容仅限本人及本人英俊潇洒风流倜傥的小哥哥使用，闲杂人等自行避让</br> 
-The project is limited to myself and my handsome friend:P</br>
-IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
+The project is limited to myself and my handsome friend</br>
+IS NOT FOR YOU, GO AWAY PLEASE!!!
+:P</br> 
 
 ### 订阅地址</br> 
 【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
