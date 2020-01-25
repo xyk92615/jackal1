@@ -5,13 +5,13 @@
 The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
-### 订阅地址-GitHub</br> 
-【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
-【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
-
-### 订阅地址-OneDrive</br> 
+### 订阅地址-OneDrive【优先】</br> 
 【v2ray】https://onedrive.gimhoy.com/sharepoint/aHR0cHM6Ly9jaGFvZXNtbC1teS5zaGFyZXBvaW50LmNvbS86dDovZy9wZXJzb25hbC94eWt1c2VyX2NoYW9lc21sX29ubWljcm9zb2Z0X2NvbS9FYTVCRm5ZUjZkVkR1YTNUcktiOWVBUUI3aHJ6MFBQTUptbnpsSGNsV2lBdTBBP2U9aFNpR0U5.txt</br> 
 【shadowsocks】https://link.gimhoy.com/sharepoint/aHR0cHM6Ly9jaGFvZXNtbC1teS5zaGFyZXBvaW50LmNvbS86dDovZy9wZXJzb25hbC94eWt1c2VyX2NoYW9lc21sX29ubWljcm9zb2Z0X2NvbS9FWnp2WXFha3ZOQkNwQ2VGbTVMOGM5WUJpNE02eXpBNUJWSEJ5eWZBb0ZPbUN3P2U9b3pJbGtm.txt</br> 
+
+### 订阅地址-GitHub【备用】</br> 
+【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
+【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
 
 ### BASE64编码解码</br>
 http://tool.oschina.net/encrypt?type=3</br> 
