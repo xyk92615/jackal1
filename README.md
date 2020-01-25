@@ -5,10 +5,14 @@
 The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
-### 订阅地址</br> 
+### 订阅地址-GitHub</br> 
 【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
 【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
  
+### 订阅地址-OneDrive</br> 
+【v2ray】https://cxce-my.sharepoint.com/:t:/g/personal/xyk_xykcloud_com/EWcFK4dtpj1NqBY74s502V8Bs1eKjZSDAKVqJRSOz3w74Q?e=cxLLKp</br> 
+【shadowsocks】https://cxce-my.sharepoint.com/:t:/g/personal/xyk_xykcloud_com/ESfhMSyFtjtLqmIj_OgMoGsBLmNEiQT3UlQqAF_Ov2qU3g?e=enEipy</br> 
+
 ### BASE64编码解码</br>
 http://tool.oschina.net/encrypt?type=3</br> 
 
