@@ -5,7 +5,11 @@
 The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
-### 订阅地址-GitHub【备用】</br> 
+### 订阅地址-Gitee【国内源】</br> 
+【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v2.txt</br> 
+【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/ss.txt</br> 
+
+### 订阅地址-GitHub【国外源】</br> 
 【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v2.txt</br> 
 【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/ss.txt</br> 
 
