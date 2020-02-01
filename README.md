@@ -6,12 +6,12 @@ The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
 ### 订阅地址-Gitee【国内源】</br> 
-【v2ray】https://gitee.com/xyk92615/jackal/raw/sub/v2.txt</br> 
-【shadowsocks】https://gitee.com/xyk92615/jackal/raw/sub/ss.txt</br> 
+【v2ray】https://gitee.com/xyk92615/jackal/raw/sub/v.txt</br> 
+【shadowsocks】https://gitee.com/xyk92615/jackal/raw/sub/s.txt</br> 
 
 ### 订阅地址-GitHub【国外源】</br> 
-【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v2.txt</br> 
-【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/ss.txt</br> 
+【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
+【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
 
 ### BASE64编码解码</br>
 http://tool.oschina.net/encrypt?type=3</br> 
