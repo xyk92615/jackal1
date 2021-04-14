@@ -12,7 +12,7 @@ IS NOT FOR YOU, GO AWAY PLEASE!!!</br>
 
 ### 订阅地址-GitHub【备用节点】</br> 
 【v2ray】https://url.xykcloud.com/v.txt</br> 
-【trojan】https://url.xykcloud.com/t.tx</br> 
+【trojan】https://url.xykcloud.com/t.txt</br> 
 【shadowsocks】https://url.xykcloud.com/s.txt</br> 
 
 ### BASE64编码解码</br>
