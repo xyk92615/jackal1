@@ -6,13 +6,11 @@ The project is limited to myself and my handsome friend</br>
 IS NOT FOR YOU, GO AWAY PLEASE!!!</br> 
 
 ### 订阅地址-GitHub【主节点】</br> 
-【v2ray】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
-【trojan】https://raw.githubusercontent.com/xyk92615/jackal/sub/t.txt</br> 
+【v2ray/trojan】https://raw.githubusercontent.com/xyk92615/jackal/sub/v.txt</br> 
 【shadowsocks】https://raw.githubusercontent.com/xyk92615/jackal/sub/s.txt</br> 
 
 ### 订阅地址-GitHub【备用节点】</br> 
-【v2ray】https://url.xykcloud.com/v.txt</br> 
-【trojan】https://url.xykcloud.com/t.txt</br> 
+【v2ray/trojan】https://url.xykcloud.com/v.txt</br> 
 【shadowsocks】https://url.xykcloud.com/s.txt</br> 
 
 ### BASE64编码解码</br>
