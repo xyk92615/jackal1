@@ -9,7 +9,7 @@ IS NOT FOR YOU, GO AWAY PLEASE!!!</br>
 【v2ray/trojan】https://raw.githubusercontent.com/xyk92615/jackal/sub/v</br> 
 
 ### 订阅地址-GitHub【备用节点】</br> 
-【v2ray/trojan】https://url.xykcloud.com/v</br> 
+【v2ray/trojan】https://ykurl.cf/v</br> 
 
 ### BASE64编码解码</br>
 http://tool.oschina.net/encrypt?type=3</br> 
